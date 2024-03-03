@@ -22,6 +22,8 @@
 - [ ] Construccion.
 - [ ] Pruebas y teoria de errores.
 
+![](img/Pizarron.png)
+
 ## 01/03/2024
 
 **Objetivo:**
@@ -32,6 +34,8 @@
 
 - Diego y Pablo hicieron pruebas con sensores ultrasonicos y de obstáculos KY-032 y KY-033.
 - Se decidio usar sensor ultrasonico y sensor de obstaculos KY-032 por su precision para detectar un objeto.
+
+![](img/Pizarron_Sensores.png)
 
 
 ## 02/03/2024
@@ -49,3 +53,5 @@
 
 **Pendientes**
 - [ ] Decidir materiales extra.
+
+![](img/KY-032.jpeg)
