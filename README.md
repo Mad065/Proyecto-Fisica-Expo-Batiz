@@ -14,11 +14,8 @@ Este proyecto tiene como objetivo demostrar varios conceptos de física, como fr
 	- Péndulo
  
 - Electronica
-	- [Sensores](docs/Sensores.md):
-	    - Sensores de Distancia
-	      - Sensor ultrasónico
-	    - Sensores de Tiempo
-	      - Sensor de obstáculo KY-032
+	- [Sensores](docs/Sensores.md)
+	- [Mecanica](docs/Mecanica.md)
 
 - Programacion
 - Programa de arduino
