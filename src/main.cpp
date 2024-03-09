@@ -35,3 +35,27 @@ void loop()
   // Esperamos un breve período de tiempo antes de realizar la próxima medición
   delay(1);
 }
+
+// Función para calcular la posición o desplazamiento
+double calcularPosicion(double velocidadInicial, double aceleracion, double tiempo)
+{
+  return velocidadInicial * tiempo + 0.5 * aceleracion * (tiempo * tiempo);
+}
+
+// Función para calcular la distancia recorrida
+double calcularDistanciaRecorrida(double velocidadInicial, double velocidadFinal, double tiempo)
+{
+  return (velocidadInicial + velocidadFinal) / 2 * tiempo;
+}
+
+// Función para calcular la velocidad final
+double calcularVelocidadFinal(double velocidadInicial, double aceleracion, double tiempo)
+{
+  return velocidadInicial + aceleracion * tiempo;
+}
+
+// Función para calcular la velocidad final al cuadrado
+double calcularVelocidadFinalAlCuadrado(double velocidadInicial, double aceleracion, double posicion)
+{
+  return velocidadInicial * velocidadInicial + 2 * aceleracion * posicion;
+}
