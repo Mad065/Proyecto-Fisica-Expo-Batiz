@@ -6,11 +6,7 @@ Este proyecto tiene como objetivo demostrar varios conceptos de física, como fr
 ## Recursos
 - Pista
 	- Estructura de madera
-	- Cubos de diferentes materiales:
-	  - Madera
-	  - Aluminio
-	  - Latón
-	  - Acrílico
+	- Cubo
 	- Péndulo
  
 - Electronica
