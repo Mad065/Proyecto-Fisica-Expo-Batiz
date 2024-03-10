@@ -1,4 +1,4 @@
-# Expo Batiz: Pista Física
+# Expo Batiz: Cube Travel
 
 ## Introducción
 Este proyecto tiene como objetivo demostrar varios conceptos de física, como fricción, conservación de energía, colisión, movimiento rectilíneo uniforme (MRU) y movimiento rectilíneo uniformemente acelerado (MRUA), utilizando una pista de madera y un cubo de diferentes materiales impulsado por un péndulo.
@@ -11,16 +11,21 @@ Este proyecto tiene como objetivo demostrar varios conceptos de física, como fr
  
 - Electronica
 	- [Sensores](docs/Sensores.md)
+		- Sensor Ultrasonico
+		- Sensor de obstáculo KY-032
 	- [Mecanica](docs/Mecanica.md)
+		- Servomotor
+		- DC motor
 
 - Programacion
-- Programa de arduino
-	- Entrada de datos de sensores
-	- Calculo de datos extra
-- Pagina Web
-	- Visualizacion de datos
-	- Explicacion del proyecto
-- Base de datos
+	- Programa de arduino
+		- Entrada de datos de sensores
+		- Calculo de datos extra
+	- Pagina Web
+		- Visualizacion de datos
+		- Explicacion del proyecto
+	- Base de datos
+		- Registro de todos los datos obtenidos en cada carrera
 
 ## Descripción
 El experimento consiste en lanzar un cubo desde un extremo de la pista de madera utilizando un péndulo como mecanismo de impulso. A medida que el cubo viaja a lo largo de la pista, se recopilarán datos sobre tiempos y distancias utilizando sensores.
