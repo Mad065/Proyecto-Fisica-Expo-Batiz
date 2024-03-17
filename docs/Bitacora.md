@@ -32,10 +32,16 @@
 
 **Resumen:**
 
-- Diego y Pablo hicieron pruebas con sensores ultrasonicos y de obstáculos KY-032 y KY-033.
+- Diego y José hicieron pruebas con sensores ultrasonicos y de obstáculos KY-032 y KY-033.
 - Se decidio usar sensor ultrasonico y sensor de obstaculos KY-032 por su precision para detectar un objeto.
 
-![](img/Pizarron_Sensores.png)
+**Pendientes:**
+
+- [] Decidir ubicacion de senspres
+- [] Decidir cantidad de sensores
+
+
+![](img/KY-032.png)
 
 
 ## 02/03/2024
@@ -52,6 +58,7 @@
 - Se usaran DC motores para mover el sensor y un servomotor para ayudar a detener el movimiento del sensor.
 
 **Pendientes**
+
 - [ ] Decidir materiales extra.
 
-![](img/KY-032.jpeg)
+![](img/Pizarron_Sensores.png)

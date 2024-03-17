@@ -1,6 +1,8 @@
 # Sensores
 
-## Sensores de Distancia
+Los sensores son dispositivo diseñados para captar un estímulo de su entorno y traducir esa información que recibe. Esa información recibida se convierte en un impulso eléctrico que luego procesan circuitos que generan una acción predeterminada en un sistema o maquinas, estos funcionan según cambios físicos alterando sus propiedades eléctricas, y convierte estímulos como el calor, la luz, el sonido y el movimiento en señales eléctricas. Estas señales se pasan a través de un interfaz que las convierte en un código binario y lo pasa a una computadora para ser procesado.
+
+## Sensores de Movimiento
 
 ### Sensor Ultrasonico:
 
@@ -10,8 +12,7 @@ Detras de esto esta el principio de eco. Cuando el sensor emite una ráfaga de u
 
 Los sensores ultrasónicos se utilizaran en el proyecto para obtener las distancias que ha recorrido el cubo a lo largo de la pista.
 
-
-## Sensores de Distancia
+## Sensores de luz
 
 ### Sensor de obstáculo KY-032
 
