@@ -6,7 +6,6 @@ Los sensores son dispositivo diseñados para captar un estímulo de su entorno y
 
 Detectan el movimiento de objetos o personas en su entorno.
 
-
 ### Sensor Ultrasonico:
 
 Los sensores ultrasónicos son dispositivos que utilizan ondas de sonido de alta frecuencia para detectar la distancia entre el sensor y un objeto. Funcionan emitiendo pulsos de ultrasonido y midiendo el tiempo que tarda en rebotar en un objeto y regresar al sensor. Basándose en el tiempo de vuelo de las ondas ultrasónicas, el sensor puede determinar la distancia al objeto.
